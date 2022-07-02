@@ -1,0 +1,8 @@
+@media (max-width:978px){
+    .navbar-list{
+        display: none;
+    }
+    .navbar-btn{
+        display: block !important;
+    }
+}
